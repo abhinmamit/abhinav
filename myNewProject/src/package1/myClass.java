@@ -4,6 +4,7 @@ public class myClass {
 	int a;
 	int b;
 	int c;
+	int d;
 	myClass()
 	{
 		a = 10;
@@ -13,7 +14,8 @@ public class myClass {
 	public void method(int a)
 	{
 		this.a = a;
-		System.out.println(a);
+		d=a+b;
+		System.out.println(d);
 	}
 
 	public static void main(String[] args) {
