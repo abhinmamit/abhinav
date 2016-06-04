@@ -3,10 +3,12 @@ package package1;
 public class myClass {
 	int a;
 	int b;
+	int c;
 	myClass()
 	{
 		a = 10;
 		b= 20;
+		c= 30;
 	}
 	public void method(int a)
 	{
