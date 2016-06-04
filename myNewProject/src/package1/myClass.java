@@ -2,6 +2,10 @@ package package1;
 
 public class myClass {
 	int a;
+	myClass()
+	{
+		a = 10;
+	}
 	public void method(int a)
 	{
 		this.a = a;
