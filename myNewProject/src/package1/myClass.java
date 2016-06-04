@@ -2,9 +2,11 @@ package package1;
 
 public class myClass {
 	int a;
+	int b;
 	myClass()
 	{
 		a = 10;
+		b= 20;
 	}
 	public void method(int a)
 	{
