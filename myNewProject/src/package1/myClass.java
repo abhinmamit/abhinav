@@ -7,7 +7,7 @@ public class myClass {
 	int d;
 	myClass()
 	{
-		a = 90;
+		a = 190;
 		b= 20;
 		c= 30;
 	}
