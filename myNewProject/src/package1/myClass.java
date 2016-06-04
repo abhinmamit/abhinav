@@ -9,7 +9,7 @@ public class myClass {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Hi this is Abhinav");
+		System.out.println("Hi this is Abhinav kumar and I work for xyza");
 		myClass c = new myClass();
 		c.method(30);
 
