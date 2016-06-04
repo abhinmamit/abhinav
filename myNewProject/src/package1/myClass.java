@@ -16,6 +16,7 @@ public class myClass {
 		this.a = a;
 		d=a+b;
 		System.out.println(d);
+		System.out.println("hello Abhinav");
 	}
 
 	public static void main(String[] args) {
